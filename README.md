@@ -1,5 +1,7 @@
 # MPU6050_GY-521_ExProgram
-Contoh program untuk sensor Gyroscope MPU6050 GY-521, 
+Di Repository ini saya menuliskan program untuk sensor Gyroscope 
+MPU6050 GY-521, repository kedepannya akan saya gunakan sebagai 
+tempat share hasil reset saya mengenai sensor GYRO MPU6050 GY-521
 
 <img src="img/mpu-6050.jpg" alt="MPU6050" width="493px" height="373px">
 <br>
@@ -7,7 +9,7 @@ Contoh program untuk sensor Gyroscope MPU6050 GY-521,
 # Pinout MPU6050 GY-521
 <img src="img/MPU6050-Pinout.png" alt="pinout of MPU6050" width="418px" height="329px">
 <br>
-<center>
+
   Source : <a href="http://www.mschoeffler.de"> Michael Schoeffler </a>
 
   <br>
@@ -24,4 +26,3 @@ Contoh program untuk sensor Gyroscope MPU6050 GY-521,
       <img src="img/Whatsapp_logos_.png"width="40px" height="40px"alt="logo whatsapp"></a>
       </tr>
   </table>
-</center>
