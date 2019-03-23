@@ -1,5 +1,5 @@
 # MPU6050_GY-521_ExProgram
-<hr border="4px">
+<hr border="4px" color="black">
 Di Repository ini saya menuliskan program untuk sensor Gyroscope 
 MPU6050 GY-521, repository kedepannya akan saya gunakan sebagai 
 tempat share hasil reset saya mengenai sensor GYRO MPU6050 GY-521
@@ -15,7 +15,7 @@ tempat share hasil reset saya mengenai sensor GYRO MPU6050 GY-521
   Source : <a href="http://www.mschoeffler.de"> Michael Schoeffler </a>
 
   <br>
-  <table border="0">
+  <table border="0" color="Black">
       <tr>
         <td colspan="3" align="center">Follow me on :</td>
       </tr>
