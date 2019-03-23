@@ -5,7 +5,6 @@ Di Repository ini saya menuliskan program untuk sensor Gyroscope
 MPU6050 GY-521, kedepannya di sini akan saya gunakan sebagai 
 tempat share hasil reset saya mengenai sensor GYRO MPU6050 GY-521
 </pre>
-<br>
 
 <br>
 <img src="img/mpu-6050.jpg" alt="MPU6050" width="493px" height="373px">
@@ -13,7 +12,9 @@ tempat share hasil reset saya mengenai sensor GYRO MPU6050 GY-521
 
 # Pinout MPU6050 GY-521
 <hr border="4px" color="Black">
+<pre>
 Berikut gambar PINOUT untuk module sensor MPU6050 GY-521.
+</pre>
 <br>
 
 <br>
