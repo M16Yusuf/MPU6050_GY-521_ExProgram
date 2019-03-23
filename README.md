@@ -7,7 +7,7 @@ tempat share hasil reset saya mengenai sensor GYRO MPU6050 GY-521
 </pre>
 
 <br>
-<img src="img/mpu-6050.jpg" alt="MPU6050" width="493px" height="373px">
+<img src="img/mpu-6050.jpg" alt="MPU6050" width="393px" height="273px">
 <br>
 
 # Pinout MPU6050 GY-521
@@ -16,9 +16,7 @@ tempat share hasil reset saya mengenai sensor GYRO MPU6050 GY-521
 Berikut gambar PINOUT untuk module sensor MPU6050 GY-521.
 </pre>
 <br>
-
-<br>
-<img src="img/MPU6050-Pinout.png" alt="pinout of MPU6050" width="418px" height="329px">
+<img src="img/MPU6050-Pinout.png" alt="pinout of MPU6050" width="318px" height="229px">
 <br>
 
 <br>
